@@ -1,36 +1,30 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 books, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 NOVELS AS PER YOUR SEARCH, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
 ╭────[🔅MY GROUP🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/PX_AutoFilter_bot'>📚 Books-backup-bot 🇮🇳</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/AedahamLibraryBot'>📚 My bot 🇮🇳</a></b>
 │
-├<b>📢 Update Channel : <a href='https://t.me/Tamil_Astrology'>நன்பர்கள் குழு 🇮🇳</a></b>
+├<b>📢 Update Channel : <a href='https://t.me/aedahamlibrarychanneltwo'>பிரதிக் குழு 🇮🇳</a></b>
 │
-├<b>👥 Support Channel : <a href='https://t.me/Tamil_Panchangam'>🌞 பஞ்சாங்கம் 🌞</a></b>
+├<b>👥 Support Channel : <a href='https://t.me/aedahamlibrarynoolaham'>📚 ஏடகம் Library நூலகம் 📚</a></b>
 │
-├<b>💢 Group Info : <a href='https://t.me/Aanmeekam'>தமிழன் ஆன்மீகம் குழு</a></b>
+├<b>🌐 Channel Info : <a href='https://t.me/aedahamlibrary_noolagam'>ஏடகம் library 🇮🇳</a></b>
 │
-├<b>🌐 Channel Info : <a href='https://t.me/aedaham_library_noolakam'>ஏடகம் library குழு 🇮🇳</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/kaimudinjavai'>படிபெருக்கி</a></b>
 │
-├<b>📕 Tamil Mp3 : <a href='https://t.me/Tamil_jukebox_songs/'>Tamil jukebox Song's</a></b>
-│
-├<b>㊙ Jallikattu Group : <a href='https://t.me/Tamilnadu_Jallikattu'>தமிழ்நாடு ஜல்லிக்கட்டு</a></b>
-│
-├<b>👨‍💻 Developer : <a href='https://t.me/PXMEDIA_RAJANGAM'>RAJANGAM</a></b>
-│
-├<b>🚸 Admin Contact : <a href='https://t.me/tamil_message_bot'>Admin Message 🇮🇳</a></b>
+├<b>🚸 Admin Contact : <a href='https://t.me/AedahamLibraryBot'>Admin Message 🇮🇳</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
     SOURCE_TXT = """<b>NOTE:</b>
 - is a Open
-- தமிழன் வணிக போர்டல் - https://t.me/Tamilnadu_Buissness_Portal 
+- ஏடகம் Library நூலகம் - https://t.me/bookflowerss 
 
 <b>DEVS:</b>
-- <a href=https://t.me/tamil_message_bot>Admin Message 🇮🇳</a>"""
+- <a href=https://t.me/kaimudinjavai>Admin Message 🇮🇳</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
