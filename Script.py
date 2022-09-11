@@ -6,17 +6,17 @@ class script(object):
     ABOUT_TXT = """
 ╭────[🔅MY GROUP🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/AedahamLibraryBot'>📚 My bot 🇮🇳</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/Hkemas_bot'>📚 My bot 🇮🇳</a></b>
 │
-├<b>📢 Update Channel : <a href='https://t.me/aedahamlibrarychanneltwo'>பிரதிக் குழு 🇮🇳</a></b>
+├<b>📢 Update Channel : <a href='https://t.me/aedahamlibrarychannel'>பிரதிக் குழு 🇮🇳</a></b>
 │
 ├<b>👥 Support Channel : <a href='https://t.me/aedahamlibrarynoolaham'>📚 ஏடகம் Library நூலகம் 📚</a></b>
 │
-├<b>🌐 Channel Info : <a href='https://t.me/aedahamlibrary_noolagam'>ஏடகம் library 🇮🇳</a></b>
+├<b>🌐 Group Info : <a href='https://t.me/aedahamlibrary_noolagam'>ஏடகம் library 🇮🇳</a></b>
 │
 ├<b>👨‍💻 Developer : <a href='https://t.me/kaimudinjavai'>படிபெருக்கி</a></b>
 │
-├<b>🚸 Admin Contact : <a href='https://t.me/AedahamLibraryBot'>Admin Message 🇮🇳</a></b>
+├<b>🚸 Admin Contact : <a href='https://t.me/kaimudinjavai'>Admin Message 🇮🇳</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
     SOURCE_TXT = """<b>NOTE:</b>
@@ -30,7 +30,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. TamilBot should have admin privillage.
+1. Hkemas bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -41,15 +41,15 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- TamilBot Supports both url and alert inline buttons.
+- Hkemas Bot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Tamilmovie bot supports buttons with any telegram media type.
+2. Hkemas bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/PX_AutoFilter_bot)</code>
+<code>[Button Text](buttonurl:https://t.me/kaimudinjavai)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
