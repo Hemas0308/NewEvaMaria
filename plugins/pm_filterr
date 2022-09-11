@@ -288,11 +288,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('Update Channel', url='https://t.me/aedahamlibrarychanneltwo'),
+                    InlineKeyboardButton('Update Channel', url='https://t.me/aedahamlibrarychannel'),
                     InlineKeyboardButton('Source Code', url='https://github.com/Hemas0308')
                 ]
                 ]
-            await query.message.edit(text="<b>Developer : <a href='https://t.me/aedahamlibrarychanneltwo'>AEDAHAM</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://github.com/Hemas0308'>Click here</a>\nUpdate Channel : <a href='https://t.me/aedahamlibrarychanneltwo'>AEDAHAM</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="<b>Developer : <a href='https://t.me/kaimudinjavai'>AEDAHAM</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://github.com/Hemas0308'>Click here</a>\nUpdate Channel : <a href='https://t.me/kaimudinjavai'>AEDAHAM</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
@@ -314,7 +314,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 buttons = [
                     [
                         InlineKeyboardButton('More Channels', url='https://t.me/aedahamlibrarynoolaham'),
-                        InlineKeyboardButton('Update Channel', url='https://t.me/aedahamlibrarychanneltwo')
+                        InlineKeyboardButton('Update Channel', url='https://t.me/aedahamlibrarychannel')
                     ]
                     ]
                 
@@ -346,7 +346,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 buttons = [
                     [
                         InlineKeyboardButton('More Bots 🤩', url='https://t.me/aedahamlibrarynoolaham'),
-                        InlineKeyboardButton('Update Channel 🥳', url='https://t.me/aedahamlibrarychanneltwo')
+                        InlineKeyboardButton('Update Channel 🥳', url='https://t.me/aedahamlibrarychannel')
                     ]
                     ]
                 
