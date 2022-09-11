@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/aedahamlibrarychanneltwo')
+                InlineKeyboardButton('🤖 Updates', url='https://t.me/aedahamlibrarychannel')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -39,10 +39,10 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('Support 🇮🇳', url='https://t.me/aedahamlibrarychanneltwo')
+            InlineKeyboardButton('Support 🇮🇳', url='https://t.me/aedahamlibrarynoolaham')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/aedahamlibrarychanneltwo')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/aedahamlibrarychannel')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('🎭 About', callback_data='about')       
@@ -82,10 +82,10 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('Support �', url='https://t.me/aedahamlibrarychanneltwo')
+            InlineKeyboardButton('Support �', url='https://t.me/aedahamlibrarynoolaham')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/aedahamlibrarychanneltwo')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/aedahamlibrarychannel')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
